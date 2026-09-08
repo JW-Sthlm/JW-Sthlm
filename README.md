@@ -4,7 +4,7 @@
 
 Partner Solution Architect at Microsoft, working with Data, AI, partners, and the shift toward agentic delivery.
 
-I am not a full-time developer. I build practical tools, courses, workshops, and agent patterns for work I would otherwise have to repeat by hand.
+I am not a developer. I build practical tools, courses, workshops, and reusable agent skills for work I would otherwise have to repeat by hand.
 
 **[Browse the curated project library](https://jw-sthlm.github.io/)**
 
@@ -12,7 +12,7 @@ I am not a full-time developer. I build practical tools, courses, workshops, and
 
 - **[Signal Engine OSS](https://github.com/JW-Sthlm/signal-engine-oss):** a personal content opportunity engine that scouts sources and prepares voice-matched LinkedIn drafts.
 - **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-public/):** partner enablement material for consulting firms changing how they sell and deliver with AI.
-- **[AI Operator Intro](https://jw-sthlm.github.io/ai-operator-intro/):** a self-paced introduction to Copilot CLI for consultants and partner-facing roles.
+- **[AI Operator Intro](https://jw-sthlm.github.io/ai-operator-intro/):** a self-paced introduction to building agent workflows, using Copilot CLI as the practical workshop.
 - **[Agent Otto](https://github.com/JW-Sthlm/agent-otto):** a Teams agent pattern for course support, exercises, and FAQ learning loops.
 - **[Talks](https://jw-sthlm.github.io/talks/):** public presentations and presenter material.
 
