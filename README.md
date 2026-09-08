@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="right" width="150" src="https://raw.githubusercontent.com/JW-Sthlm/JW-Sthlm.github.io/main/assets/johan.png" alt="Johan Wallquist">
 
-<!--
-**JW-Sthlm/JW-Sthlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Johan Wallquist
 
-Here are some ideas to get you started:
+Partner Solution Architect at Microsoft, working with Data, AI, partners, and the shift toward agentic delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am not a full-time developer. I build practical tools, courses, workshops, and agent patterns for work I would otherwise have to repeat by hand.
+
+**[Browse the curated project library](https://jw-sthlm.github.io/)**
+
+## Good places to start
+
+- **[Signal Engine OSS](https://github.com/JW-Sthlm/signal-engine-oss):** a personal content opportunity engine that scouts sources and prepares voice-matched LinkedIn drafts.
+- **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-public/):** partner enablement material for consulting firms changing how they sell and deliver with AI.
+- **[AI Operator Intro](https://jw-sthlm.github.io/ai-operator-intro/):** a self-paced introduction to Copilot CLI for consultants and partner-facing roles.
+- **[Agent Otto](https://github.com/JW-Sthlm/agent-otto):** a Teams agent pattern for course support, exercises, and FAQ learning loops.
+- **[Talks](https://jw-sthlm.github.io/talks/):** public presentations and presenter material.
+
+## Reuse
+
+Repositories with an explicit license can be reused under those terms. Other public repositories are source-available references until a license says otherwise.
+
+These are personal projects and community assets. They are not Microsoft products.
