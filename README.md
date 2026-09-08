@@ -11,9 +11,10 @@ I am not a developer. I build practical tools, courses, workshops, and reusable 
 ## Good places to start
 
 - **[Signal Engine OSS](https://github.com/JW-Sthlm/signal-engine-oss):** a personal content opportunity engine that scouts sources and prepares voice-matched LinkedIn drafts.
-- **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-public/):** partner enablement material for consulting firms changing how they sell and deliver with AI.
+- **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-kit/):** partner enablement material for consulting firms changing how they sell and deliver with AI.
 - **[AI Operator Intro](https://jw-sthlm.github.io/ai-operator-intro/):** a self-paced introduction to building agent workflows, using Copilot CLI as the practical workshop.
-- **[Agent Otto](https://github.com/JW-Sthlm/agent-otto):** a Teams agent pattern for course support, exercises, and FAQ learning loops.
+- **[Slidemaster Framework](https://jw-sthlm.github.io/slidemaster-framework/):** a portable HTML presentation skill with a deck specification, storyboard, themes, and validation.
+- **[Executive Assistant Blueprint](https://github.com/JW-Sthlm/executive-assistant-blueprint):** a boundary-first starter for skills, memory, scheduled work, and safe approval patterns.
 - **[Talks](https://jw-sthlm.github.io/talks/):** public presentations and presenter material.
 
 ## Reuse
