@@ -17,6 +17,7 @@ I am not a developer. I build practical tools, courses, workshops, and reusable 
 - **[Executive Assistant Blueprint](https://github.com/JW-Sthlm/executive-assistant-blueprint):** a boundary-first starter for skills, memory, scheduled work, and safe approval patterns.
 - **[Podcast Prep Skill](https://github.com/JW-Sthlm/podcast-prep-skill):** source-audited guest research, question architecture, fact checks, and episode planning.
 - **[Content Humanizer](https://github.com/JW-Sthlm/content-humanizer):** build a voice profile and remove common AI writing patterns without publishing the source writing.
+- **[Visual Sidekick](https://github.com/JW-Sthlm/visual-sidekick):** a visible selected-window companion for presentation review, workflows, interfaces, and errors.
 - **[Talks](https://jw-sthlm.github.io/talks/):** public presentations and presenter material.
 
 ## Reuse
