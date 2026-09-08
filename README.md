@@ -11,10 +11,12 @@ I am not a developer. I build practical tools, courses, workshops, and reusable 
 ## Good places to start
 
 - **[Signal Engine OSS](https://github.com/JW-Sthlm/signal-engine-oss):** a personal content opportunity engine that scouts sources and prepares voice-matched LinkedIn drafts.
-- **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-kit/):** partner enablement material for consulting firms changing how they sell and deliver with AI.
+- **[Frontier Consultancy](https://jw-sthlm.github.io/frontier-consultancy-kit/):** view the partner-led workshop tracks for consulting firms changing how they sell and deliver with AI. Sessions are run with Microsoft partners.
 - **[AI Operator Intro](https://jw-sthlm.github.io/ai-operator-intro/):** a self-paced introduction to building agent workflows, using Copilot CLI as the practical workshop.
 - **[Slidemaster Framework](https://jw-sthlm.github.io/slidemaster-framework/):** a portable HTML presentation skill with a deck specification, storyboard, themes, and validation.
 - **[Executive Assistant Blueprint](https://github.com/JW-Sthlm/executive-assistant-blueprint):** a boundary-first starter for skills, memory, scheduled work, and safe approval patterns.
+- **[Podcast Prep Skill](https://github.com/JW-Sthlm/podcast-prep-skill):** source-audited guest research, question architecture, fact checks, and episode planning.
+- **[Content Humanizer](https://github.com/JW-Sthlm/content-humanizer):** build a voice profile and remove common AI writing patterns without publishing the source writing.
 - **[Talks](https://jw-sthlm.github.io/talks/):** public presentations and presenter material.
 
 ## Reuse
